@@ -1,15 +1,12 @@
 ### Data cleaning + exploration script ###
 
+#This script is used for cleaning and preparing the data for analysis
+#Creates new rds. data files to be used in script 02_data_analysis
+
 pacman::p_load( 'rstan', 'brms','tidybayes', 'dplyr','bayesplot', 'rstanarm', 
                 'kableExtra', 'patchwork', 'loo', 'emmeans', 'broom', 'broom.mixed', 'cmdstanr',
                 'GGally', 'MetBrewer', 'rcartocolor', 'ggrepel', 'devEMF', 'flextable', 'officer',
                 'grid', 'ggplot2', 'forcats', 'tidyverse')
-
-setwd("C:/Users/msmi0005/Documents/FLX_mosquitofish_mesocosm") #FOR PC
-#setwd("/Users/marcusmichelangeli/Desktop/FLX_mosquitofish_mesocosm/")
-
-#set file path
-data_path = "./data/"
 
 #-------------------------------------------------------------------------#
 #> 1. Fish size data ######################################################
@@ -435,7 +432,7 @@ temp_ph_data <- water_param_data %>%
   )
   
 
-#2. We also need to calculate community respiration using dissolved oxygen measurements at sunset vs sunrise.
+#2. We also need to calculate aerobic respiration using dissolved oxygen measurements at sunset vs sunrise.
 
 DO_CR_data <- 
   water_param_data %>% 
