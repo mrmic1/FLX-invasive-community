@@ -1,0 +1,289 @@
+Date,Sample_ID,Sample_type,Mesocosm,Stage,Treatment,NPP,GPP,CR,Chl_a,Chl_b,Chl_c
+5/10/2020,T1L,Tile,T1,Establishment,High,,3.886,,0.947,-0.069,0.212
+5/10/2020,T1R,Tile,T1,Establishment,High,,4.167,,0.578,0.126,0.01
+5/10/2020,T2L,Tile,T2,Establishment,Low,,7.892,,1.474,0.373,0.274
+5/10/2020,T2R,Tile,T2,Establishment,Low,,9.721,,1.359,0.405,0.049
+5/10/2020,T3L,Tile,T3,Establishment,Control,,0.64,,0.32,0.195,-0.039
+5/10/2020,T3R,Tile,T3,Establishment,Control,,-0.351,,0.126,0.058,-0.062
+5/10/2020,T4L,Tile,T4,Establishment,High,,10.496,,1.152,0.275,0.133
+5/10/2020,T4R,Tile,T4,Establishment,High,,3.229,,0.991,0.131,0.198
+5/10/2020,T5L,Tile,T5,Establishment,Low,,0.436,,1.847,0.382,0.234
+5/10/2020,T5R,Tile,T5,Establishment,Low,,1.574,,3.401,0.619,0.322
+5/10/2020,T6L,Tile,T6,Establishment,Control,,-1.282,,0.205,0.285,0.06
+5/10/2020,T6R,Tile,T6,Establishment,Control,,-1.074,,0.522,0.198,0.128
+5/10/2020,T7L,Tile,T7,Establishment,Low,,6.391,,0.652,0.347,0.059
+5/10/2020,T7R,Tile,T7,Establishment,Low,,5.204,,0.971,0.318,-0.058
+5/10/2020,T8L,Tile,T8,Establishment,Control,,-1.422,,0.73,0.192,0.175
+5/10/2020,T8R,Tile,T8,Establishment,Control,,-0.115,,0.688,0.174,0.128
+5/10/2020,T9L,Tile,T9,Establishment,High,,11.016,,0.151,0.21,0.044
+5/10/2020,T9R,Tile,T9,Establishment,High,,13.105,,1.35,0.523,0.23
+5/10/2020,T10L,Tile,T10,Establishment,Control,,-4.637,,0.467,0.187,0.028
+5/10/2020,T10R,Tile,T10,Establishment,Control,,0.699,,0.457,0.424,0.301
+5/10/2020,T11L,Tile,T11,Establishment,Low,,-4.386,,0.919,0.489,0.083
+5/10/2020,T11R,Tile,T11,Establishment,Low,,-12.512,,0.529,0.448,0.243
+5/10/2020,T12L,Tile,T12,Establishment,High,,16.822,,0.801,0.392,0.167
+5/10/2020,T12R,Tile,T12,Establishment,High,,28.712,,0.684,0.364,0.062
+5/10/2020,T1W,Water column,T1,Establishment,High,,0.262,,0.034,0.005,0
+5/10/2020,T2W,Water column,T2,Establishment,Low,,0.254,,0.034,0.005,0
+5/10/2020,T3W,Water column,T3,Establishment,Control,,0.233,,0,0.005,0.002
+5/10/2020,T4W,Water column,T4,Establishment,High,,0.262,,0,0.009,0
+5/10/2020,T5W,Water column,T5,Establishment,Low,,0.292,,0,0.024,0.019
+5/10/2020,T6W,Water column,T6,Establishment,Control,,0.327,,0,0.019,0
+5/10/2020,T7W,Water column,T7,Establishment,Low,,0.181,,0,0.011,0.003
+5/10/2020,T8W,Water column,T8,Establishment,Control,,0.258,,0.021,0.029,0.006
+5/10/2020,T9W,Water column,T9,Establishment,High,,0.139,,0,0.026,0
+5/10/2020,T10W,Water column,T10,Establishment,Control,,0.193,,0,0.016,0.005
+5/10/2020,T11W,Water column,T11,Establishment,Low,,0.374,,0,0.016,0.005
+5/10/2020,T12W,Water column,T12,Establishment,High,,0.039,,0,0.022,0.007
+15/10/2020,T1L,Tile,T1,Establishment,High,,2.793,,3.002,0.262,0.33
+15/10/2020,T1R,Tile,T1,Establishment,High,,5.123,,3.647,0.397,0.167
+15/10/2020,T2L,Tile,T2,Establishment,Low,,4.842,,3.819,0.598,0.289
+15/10/2020,T2R,Tile,T2,Establishment,Low,,11.03,,5.642,0.829,0.503
+15/10/2020,T3L,Tile,T3,Establishment,Control,,46.231,,6.389,1.779,0.65
+15/10/2020,T3R,Tile,T3,Establishment,Control,,20.81,,3.844,0.947,0.292
+15/10/2020,T4L,Tile,T4,Establishment,High,,0.86,,3.147,0.461,0.214
+15/10/2020,T4R,Tile,T4,Establishment,High,,-7.49,,5.242,0.954,0.497
+15/10/2020,T5L,Tile,T5,Establishment,Low,,15.123,,3.949,0.863,0.428
+15/10/2020,T5R,Tile,T5,Establishment,Low,,16.62,,4.363,0.905,0.178
+15/10/2020,T6L,Tile,T6,Establishment,Control,,8.282,,2.473,0.716,0.291
+15/10/2020,T6R,Tile,T6,Establishment,Control,,7.949,,2.423,0.653,0.071
+15/10/2020,T7L,Tile,T7,Establishment,Low,,34.918,,2.643,0.698,0.216
+15/10/2020,T7R,Tile,T7,Establishment,Low,,17.059,,2.316,0.564,0.328
+15/10/2020,T8L,Tile,T8,Establishment,Control,,-0.329,,3.408,0.704,0.432
+15/10/2020,T8R,Tile,T8,Establishment,Control,,-7.244,,2.922,0.465,0.418
+15/10/2020,T9L,Tile,T9,Establishment,High,,37.466,,2.287,0.7,0.321
+15/10/2020,T9R,Tile,T9,Establishment,High,,26.098,,2.461,0.713,0.289
+15/10/2020,T10L,Tile,T10,Establishment,Control,,5.95,,2.062,0.589,0.161
+15/10/2020,T10R,Tile,T10,Establishment,Control,,-2.468,,2.127,0.734,0.227
+15/10/2020,T11L,Tile,T11,Establishment,Low,,9.285,,2.816,0.929,0.236
+15/10/2020,T11R,Tile,T11,Establishment,Low,,4.114,,2.401,0.58,0.316
+15/10/2020,T12L,Tile,T12,Establishment,High,,10.524,,3.483,0.83,0.403
+15/10/2020,T12R,Tile,T12,Establishment,High,,26.097,,3.469,0.9,0.428
+15/10/2020,T1W,Water column,T1,Establishment,High,,0.034,,0.216,0.012,0.021
+15/10/2020,T2W,Water column,T2,Establishment,Low,,0.053,,0.18,0.029,0.026
+15/10/2020,T3W,Water column,T3,Establishment,Control,,-0.093,,0.034,0.005,0
+15/10/2020,T4W,Water column,T4,Establishment,High,,0.243,,0.26,0.027,0.048
+15/10/2020,T5W,Water column,T5,Establishment,Low,,0.068,,0.032,0.023,0.004
+15/10/2020,T6W,Water column,T6,Establishment,Control,,0.21,,0,0.021,0
+15/10/2020,T7W,Water column,T7,Establishment,Low,,0.031,,0.009,0.034,0.008
+15/10/2020,T8W,Water column,T8,Establishment,Control,,0.387,,0.214,0.031,0.038
+15/10/2020,T9W,Water column,T9,Establishment,High,,0.098,,0.021,0.029,0.006
+15/10/2020,T10W,Water column,T10,Establishment,Control,,0.316,,0,0.005,0.002
+15/10/2020,T11W,Water column,T11,Establishment,Low,,0.462,,0.01,0.013,0.015
+15/10/2020,T12W,Water column,T12,Establishment,High,,0.181,,0.031,0.041,0.021
+26/10/2020,T1L,Tile,T1,Fish only,High,20.411,26.146,5.735,7.665,2.041,0.218
+26/10/2020,T1R,Tile,T1,Fish only,High,10.98,19.331,8.351,12.24,2.972,0.562
+26/10/2020,T2L,Tile,T2,Fish only,Low,27.836,32.926,5.09,8.775,2.071,0.478
+26/10/2020,T2R,Tile,T2,Fish only,Low,49.532,57.148,7.616,19.529,5.096,0.647
+26/10/2020,T3L,Tile,T3,Fish only,Control,40.035,43.798,3.763,11.487,2.981,0.57
+26/10/2020,T3R,Tile,T3,Fish only,Control,39.717,40.15,0.434,9.451,2.462,0.341
+26/10/2020,T4L,Tile,T4,Fish only,High,44.603,45.314,0.711,13.547,3.446,0.577
+26/10/2020,T4R,Tile,T4,Fish only,High,27.415,29.401,1.986,10.36,2.7,0.281
+26/10/2020,T5L,Tile,T5,Fish only,Low,44.841,47.054,2.214,15.596,3.779,0.795
+26/10/2020,T5R,Tile,T5,Fish only,Low,48.1,49.317,1.217,17.409,4.205,0.74
+26/10/2020,T6L,Tile,T6,Fish only,Control,32.201,33.082,0.881,9.744,2.523,0.447
+26/10/2020,T6R,Tile,T6,Fish only,Control,15.928,17.321,1.393,6.202,1.624,0.17
+26/10/2020,T7L,Tile,T7,Fish only,Low,4.62,51.353,46.733,13.249,3.481,0.642
+26/10/2020,T7R,Tile,T7,Fish only,Low,9.24,49.672,40.432,14.502,4.133,0.477
+26/10/2020,T8L,Tile,T8,Fish only,Control,28.013,30.587,2.573,11.83,2.728,0.509
+26/10/2020,T8R,Tile,T8,Fish only,Control,26.484,31.164,4.68,9.156,2.322,0.536
+26/10/2020,T9L,Tile,T9,Fish only,High,45.113,51.274,6.161,8.06,1.915,0.537
+26/10/2020,T9R,Tile,T9,Fish only,High,36.306,45.48,9.175,15.163,3.424,1.129
+26/10/2020,T10L,Tile,T10,Fish only,Control,7.819,8.455,0.636,3.429,1.033,0.259
+26/10/2020,T10R,Tile,T10,Fish only,Control,-2.503,-1.183,1.319,2.752,0.871,0.111
+26/10/2020,T11L,Tile,T11,Fish only,Low,17.256,29.78,12.524,7.951,2.107,0.573
+26/10/2020,T11R,Tile,T11,Fish only,Low,35.933,46.896,10.963,13.953,3.896,0.569
+26/10/2020,T12L,Tile,T12,Fish only,High,25.315,36.856,11.54,11.173,2.725,0.98
+26/10/2020,T12R,Tile,T12,Fish only,High,14.303,35.774,21.471,13.678,3.39,0.708
+26/10/2020,T1W,Water column,T1,Fish only,High,,0.289,0.025,0.158,0.021,0.012
+26/10/2020,T2W,Water column,T2,Fish only,Low,,0.132,0.069,0.134,0.032,0.016
+26/10/2020,T3W,Water column,T3,Fish only,Control,,0.134,0.002,0.043,0.039,0
+26/10/2020,T4W,Water column,T4,Fish only,High,,0.487,0.066,0.134,0.035,0
+26/10/2020,T5W,Water column,T5,Fish only,Low,,0.432,0.049,0.167,0.058,0
+26/10/2020,T6W,Water column,T6,Fish only,Control,,0.585,0.141,0.134,0.032,0.016
+26/10/2020,T7W,Water column,T7,Fish only,Low,,0.131,0.244,0.077,0.041,0.007
+26/10/2020,T8W,Water column,T8,Fish only,Control,,0.145,0.738,0.213,0.054,0.006
+26/10/2020,T9W,Water column,T9,Fish only,High,,0.164,0.655,0.112,0.025,0.002
+26/10/2020,T10W,Water column,T10,Fish only,Control,,0.381,0.514,0.066,0.028,0
+26/10/2020,T11W,Water column,T11,Fish only,Low,,0.393,0.274,0.1,0.03,0.004
+26/10/2020,T12W,Water column,T12,Fish only,High,,0.53,0.111,0.168,0.037,0.003
+5/11/2020,T1L,Tile,T1,Fish only,High,8.995,11.985,2.989,2.582,0.696,0.076
+5/11/2020,T1R,Tile,T1,Fish only,High,4.829,28.145,23.316,8.764,2.388,0.262
+5/11/2020,T2L,Tile,T2,Fish only,Low,16.196,29.506,13.31,9.673,2.555,0.365
+5/11/2020,T2R,Tile,T2,Fish only,Low,15.423,23.768,8.345,7.124,2.083,0.246
+5/11/2020,T3L,Tile,T3,Fish only,Control,34.6,47.959,13.359,14.229,4.144,0.36
+5/11/2020,T3R,Tile,T3,Fish only,Control,29.71,36.004,6.294,9.354,2.581,0.021
+5/11/2020,T4L,Tile,T4,Fish only,High,30.269,31.916,1.647,8.644,2.659,0.205
+5/11/2020,T4R,Tile,T4,Fish only,High,16.341,23.997,7.656,8.739,2.39,0.529
+5/11/2020,T5L,Tile,T5,Fish only,Low,28.587,33.788,5.201,11.609,3.113,0.505
+5/11/2020,T5R,Tile,T5,Fish only,Low,38.814,46.034,7.22,13.733,4.061,0.611
+5/11/2020,T6L,Tile,T6,Fish only,Control,24.191,29.193,5.003,10.605,3.533,0.289
+5/11/2020,T6R,Tile,T6,Fish only,Control,11.828,28.86,17.032,6.755,2.376,0.224
+5/11/2020,T7L,Tile,T7,Fish only,Low,18.915,29.459,10.543,7.023,2.685,0.391
+5/11/2020,T7R,Tile,T7,Fish only,Low,34.867,43.263,8.396,7.633,2.701,0.374
+5/11/2020,T8L,Tile,T8,Fish only,Control,8.768,23.442,14.675,8.563,2.446,0.518
+5/11/2020,T8R,Tile,T8,Fish only,Control,16.035,27.099,11.064,7.045,2.317,0.145
+5/11/2020,T9L,Tile,T9,Fish only,High,28.475,37.876,9.401,10.773,3.015,0.652
+5/11/2020,T9R,Tile,T9,Fish only,High,42.076,52.977,10.901,12.284,3.387,0.979
+5/11/2020,T10L,Tile,T10,Fish only,Control,-1.975,1.227,3.202,1.125,0.58,-0.045
+5/11/2020,T10R,Tile,T10,Fish only,Control,0.974,1.68,0.705,1.695,0.782,0.126
+5/11/2020,T11L,Tile,T11,Fish only,Low,38.13,47.504,9.374,10.953,3.393,0.533
+5/11/2020,T11R,Tile,T11,Fish only,Low,20.758,31.595,10.837,6.417,2.263,0.432
+5/11/2020,T12L,Tile,T12,Fish only,High,19.533,28.562,9.029,9.685,3.264,0.582
+5/11/2020,T12R,Tile,T12,Fish only,High,21.409,28.074,6.665,7.346,2.397,0.525
+5/11/2020,T1W,Water column,T1,Fish only,High,,0.014,0.089,0.034,0.005,0
+5/11/2020,T2W,Water column,T2,Fish only,Low,,0.084,0.047,0.112,0.025,0.002
+5/11/2020,T3W,Water column,T3,Fish only,Control,,-0.009,0.151,0,0.029,0
+5/11/2020,T4W,Water column,T4,Fish only,High,,0.295,0.143,0.055,0.033,0
+5/11/2020,T5W,Water column,T5,Fish only,Low,,0.25,0.08,0.032,0.026,0
+5/11/2020,T6W,Water column,T6,Fish only,Control,,0.266,0.052,0.022,0.01,0
+5/11/2020,T7W,Water column,T7,Fish only,Low,,0.229,0.096,0,0.032,0
+5/11/2020,T8W,Water column,T8,Fish only,Control,,0.42,0.005,0.077,0.038,0.031
+5/11/2020,T9W,Water column,T9,Fish only,High,,0.318,0.081,0.055,0.033,0
+5/11/2020,T10W,Water column,T10,Fish only,Control,,0.26,0.03,0.087,0.056,0
+5/11/2020,T11W,Water column,T11,Fish only,Low,,0.016,0.015,0.043,0.039,0
+5/11/2020,T12W,Water column,T12,Fish only,High,,0.21,0.101,0.065,0.046,0.009
+16/11/2020,T1L,Tile,T1,Fish_Exposure,High,16.261,18.348,2.087,3.383,0.669,0.207
+16/11/2020,T1R,Tile,T1,Fish_Exposure,High,19.912,25.197,5.285,5.855,1.374,0.124
+16/11/2020,T2L,Tile,T2,Fish_Exposure,Low,18.086,39.965,21.879,8.469,1.455,0.223
+16/11/2020,T2R,Tile,T2,Fish_Exposure,Low,7.436,8.852,1.416,1.1,0.059,-0.145
+16/11/2020,T3L,Tile,T3,Fish_Exposure,Control,30.565,38.855,8.289,8.854,1.361,0.019
+16/11/2020,T3R,Tile,T3,Fish_Exposure,Control,10.531,36.47,25.939,9.459,1.93,0.453
+16/11/2020,T4L,Tile,T4,Fish_Exposure,High,13.772,29.218,15.446,8.171,1.785,0.141
+16/11/2020,T4R,Tile,T4,Fish_Exposure,High,-2.549,8.401,10.95,3.935,0.698,0.182
+16/11/2020,T5L,Tile,T5,Fish_Exposure,Low,42.125,49.467,7.342,8.922,1.859,0.133
+16/11/2020,T5R,Tile,T5,Fish_Exposure,Low,34.68,40.675,5.995,9.238,1.563,0.832
+16/11/2020,T6L,Tile,T6,Fish_Exposure,Control,3.072,22.086,19.014,8.4,2.126,0.042
+16/11/2020,T6R,Tile,T6,Fish_Exposure,Control,3.532,20.358,16.827,7.084,1.658,0.279
+16/11/2020,T7L,Tile,T7,Fish_Exposure,Low,17.042,35.043,18.001,6.613,1.371,0.27
+16/11/2020,T7R,Tile,T7,Fish_Exposure,Low,27.107,27.475,0.368,5.139,1.188,-0.051
+16/11/2020,T8L,Tile,T8,Fish_Exposure,Control,7.411,30.866,23.455,6.204,1.544,0.278
+16/11/2020,T8R,Tile,T8,Fish_Exposure,Control,5.595,31.387,25.792,7.469,1.501,0.099
+16/11/2020,T9L,Tile,T9,Fish_Exposure,High,12.707,33.008,20.301,7.403,1.417,0.269
+16/11/2020,T9R,Tile,T9,Fish_Exposure,High,18.527,31.128,12.601,9.587,1.726,0.71
+16/11/2020,T10L,Tile,T10,Fish_Exposure,Control,2.798,2.857,0.058,1.759,-0.027,-0.066
+16/11/2020,T10R,Tile,T10,Fish_Exposure,Control,-0.516,2.466,2.983,1.391,0.14,-0.014
+16/11/2020,T11L,Tile,T11,Fish_Exposure,Low,22.099,39.789,17.69,8.399,2.085,0.204
+16/11/2020,T11R,Tile,T11,Fish_Exposure,Low,5.229,24.272,19.043,7.626,2.092,0.518
+16/11/2020,T12L,Tile,T12,Fish_Exposure,High,22.214,37.656,15.443,9.705,1.896,0.116
+16/11/2020,T12R,Tile,T12,Fish_Exposure,High,12.028,22.467,10.439,4.926,0.857,0.034
+16/11/2020,T1W,Water column,T1,Fish_Exposure,High,,-0.241,0.24,0.012,0,0
+16/11/2020,T2W,Water column,T2,Fish_Exposure,Low,,-0.194,0.071,0.013,0,0
+16/11/2020,T3W,Water column,T3,Fish_Exposure,Control,,-0.258,0.252,0.024,0,0
+16/11/2020,T4W,Water column,T4,Fish_Exposure,High,,-0.032,0.067,0.036,0,0
+16/11/2020,T5W,Water column,T5,Fish_Exposure,Low,,-0.149,0.204,0.036,0,0
+16/11/2020,T6W,Water column,T6,Fish_Exposure,Control,,-0.029,0.099,0.059,0,0
+16/11/2020,T7W,Water column,T7,Fish_Exposure,Low,,-0.374,0.337,0.058,0,0
+16/11/2020,T8W,Water column,T8,Fish_Exposure,Control,,-0.318,0.157,0.037,0,0
+16/11/2020,T9W,Water column,T9,Fish_Exposure,High,,-0.218,0.203,0.058,0,0.009
+16/11/2020,T10W,Water column,T10,Fish_Exposure,Control,,-0.062,0.192,0.059,0,0
+16/11/2020,T11W,Water column,T11,Fish_Exposure,Low,,-0.007,0.162,0.047,0,0.018
+16/11/2020,T12W,Water column,T12,Fish_Exposure,High,,0.087,0.061,0.07,0,0
+26/11/2020,T1L,Tile,T1,Fish_Exposure,High,-1.025,6.632,7.657,0.838,0.41,0.174
+26/11/2020,T1R,Tile,T1,Fish_Exposure,High,-6.51,1.292,7.802,1.31,0.432,0.057
+26/11/2020,T2L,Tile,T2,Fish_Exposure,Low,50.096,26.563,-23.534,1.953,0.875,0.139
+26/11/2020,T2R,Tile,T2,Fish_Exposure,Low,71.656,23.565,-48.092,4.498,1.924,0.16
+26/11/2020,T3L,Tile,T3,Fish_Exposure,Control,-9.107,24.499,33.606,3.387,1.115,0.146
+26/11/2020,T3R,Tile,T3,Fish_Exposure,Control,-17.976,1.483,19.46,1.303,0.63,0.103
+26/11/2020,T4L,Tile,T4,Fish_Exposure,High,-7.54,17.74,25.28,1.65,0.761,0.122
+26/11/2020,T4R,Tile,T4,Fish_Exposure,High,-16.284,10.991,27.275,1.192,0.699,0.123
+26/11/2020,T5L,Tile,T5,Fish_Exposure,Low,10.194,44.621,34.426,8.581,1.729,0.457
+26/11/2020,T5R,Tile,T5,Fish_Exposure,Low,3.063,44.368,41.305,5.805,1.453,0.579
+26/11/2020,T6L,Tile,T6,Fish_Exposure,Control,-5.401,21.674,27.075,2.809,1.196,0.185
+26/11/2020,T6R,Tile,T6,Fish_Exposure,Control,-4.845,13.523,18.369,1.043,0.611,0.108
+26/11/2020,T7L,Tile,T7,Fish_Exposure,Low,-3.73,31.764,35.494,2.304,1.205,0.039
+26/11/2020,T7R,Tile,T7,Fish_Exposure,Low,-13.646,33.811,47.457,2.39,1.47,0.263
+26/11/2020,T8L,Tile,T8,Fish_Exposure,Control,-8.227,23.878,32.105,2.054,0.679,0.244
+26/11/2020,T8R,Tile,T8,Fish_Exposure,Control,-13.873,29.248,43.121,4.585,1.168,0.431
+26/11/2020,T9L,Tile,T9,Fish_Exposure,High,-8.947,36.818,45.765,5.182,1.32,0.487
+26/11/2020,T9R,Tile,T9,Fish_Exposure,High,2.207,42.541,40.334,6.149,1.86,0.574
+26/11/2020,T10L,Tile,T10,Fish_Exposure,Control,-17.461,-0.837,16.624,0.101,0.395,0.089
+26/11/2020,T10R,Tile,T10,Fish_Exposure,Control,-20.224,-3.053,17.171,0.114,0.445,0.1
+26/11/2020,T11L,Tile,T11,Fish_Exposure,Low,4.696,43.713,39.018,4.052,1.373,0.327
+26/11/2020,T11R,Tile,T11,Fish_Exposure,Low,-14.06,33.811,47.87,3.957,1.56,0.436
+26/11/2020,T12L,Tile,T12,Fish_Exposure,High,-6.696,11.24,17.936,1.663,0.962,0.297
+26/11/2020,T12R,Tile,T12,Fish_Exposure,High,-5.993,7.986,13.979,0.878,0.467,0.08
+26/11/2020,T1W,Water column,T1,Fish_Exposure,High,,0.113,0.515,0,0.021,0
+26/11/2020,T2W,Water column,T2,Fish_Exposure,Low,,-0.071,1.149,0.024,0,0
+26/11/2020,T3W,Water column,T3,Fish_Exposure,Control,,0.052,0.415,0,0.021,0
+26/11/2020,T4W,Water column,T4,Fish_Exposure,High,,0.069,0.29,0.036,0,0
+26/11/2020,T5W,Water column,T5,Fish_Exposure,Low,,0.134,0.308,0.009,0.031,0.032
+26/11/2020,T6W,Water column,T6,Fish_Exposure,Control,,0.153,0.38,0.036,0,0
+26/11/2020,T7W,Water column,T7,Fish_Exposure,Low,,-0.044,0.34,0.034,0.002,0.012
+26/11/2020,T8W,Water column,T8,Fish_Exposure,Control,,0.048,0.259,0.036,0,0
+26/11/2020,T9W,Water column,T9,Fish_Exposure,High,,0.071,0.382,0.024,0,0
+26/11/2020,T10W,Water column,T10,Fish_Exposure,Control,,0.186,0.405,0.012,0,0
+26/11/2020,T11W,Water column,T11,Fish_Exposure,Low,,0.126,0.282,0.036,0,0
+26/11/2020,T12W,Water column,T12,Fish_Exposure,High,,0.126,0.358,0.012,0,0
+7/12/2020,T1L,Tile,T1,Exposure only,High,2.888,3.288,0.399,1.284,0.331,-0.086
+7/12/2020,T1R,Tile,T1,Exposure only,High,-0.756,0.451,1.207,1.806,0.463,0.047
+7/12/2020,T2L,Tile,T2,Exposure only,Low,32.2,33.156,0.956,10.43,3.312,0.108
+7/12/2020,T2R,Tile,T2,Exposure only,Low,0.942,1.045,0.103,1.87,0.618,0.222
+7/12/2020,T3L,Tile,T3,Exposure only,Control,8.554,11.827,3.273,2.139,0.577,0.063
+7/12/2020,T3R,Tile,T3,Exposure only,Control,2.154,3.11,0.956,0.365,0.051,-0.135
+7/12/2020,T4L,Tile,T4,Exposure only,High,20.161,32.603,12.442,6.715,1.992,0.094
+7/12/2020,T4R,Tile,T4,Exposure only,High,65.59,66.867,1.277,5.215,1.298,0.234
+7/12/2020,T5L,Tile,T5,Exposure only,Low,1.406,1.636,0.229,12.731,1.679,0.725
+7/12/2020,T5R,Tile,T5,Exposure only,Low,38.399,40.211,1.812,13.432,1.983,0.788
+7/12/2020,T6L,Tile,T6,Exposure only,Control,-0.259,0.897,1.156,0.814,0.243,0.029
+7/12/2020,T6R,Tile,T6,Exposure only,Control,7.544,7.582,0.038,1.502,0.52,0.071
+7/12/2020,T7L,Tile,T7,Exposure only,Low,2.799,13.618,10.819,4.796,1.501,0.353
+7/12/2020,T7R,Tile,T7,Exposure only,Low,13.329,28.492,15.162,7.714,2.027,0.374
+7/12/2020,T8L,Tile,T8,Exposure only,Control,-0.906,1.103,2.009,0.176,0.06,0.108
+7/12/2020,T8R,Tile,T8,Exposure only,Control,-3.71,-0.597,3.114,0.263,0.187,0.035
+7/12/2020,T9L,Tile,T9,Exposure only,High,9.392,21.414,12.022,7.123,1.409,0.435
+7/12/2020,T9R,Tile,T9,Exposure only,High,27.38,45.504,18.124,6.632,1.513,0.434
+7/12/2020,T10L,Tile,T10,Exposure only,Control,5.698,6.006,0.308,0.603,0.368,-0.073
+7/12/2020,T10R,Tile,T10,Exposure only,Control,-3.723,-1.806,1.917,0.347,0.468,0.24
+7/12/2020,T11L,Tile,T11,Exposure only,Low,16.154,21.632,5.478,3.981,1.06,0.241
+7/12/2020,T11R,Tile,T11,Exposure only,Low,19.624,25.61,5.985,3.211,0.993,-0.001
+7/12/2020,T12L,Tile,T12,Exposure only,High,5.077,5.563,0.486,1.515,0.524,0.071
+7/12/2020,T12R,Tile,T12,Exposure only,High,-0.545,-0.324,0.221,0.19,0.264,0.055
+7/12/2020,T1W,Water column,T1,Exposure only,High,,0.229,0.021,0.022,0.01,-0.011
+7/12/2020,T2W,Water column,T2,Exposure only,Low,,0.239,0.018,0.122,0.04,-0.007
+7/12/2020,T3W,Water column,T3,Exposure only,Control,,0.152,0.016,0.01,0.016,-0.009
+7/12/2020,T4W,Water column,T4,Exposure only,High,,0.309,0.032,-0.012,0.005,0.002
+7/12/2020,T5W,Water column,T5,Exposure only,Low,,0.439,0.028,0.133,0.053,0.008
+7/12/2020,T6W,Water column,T6,Exposure only,Control,,0.331,0.034,0.01,0.013,0.015
+7/12/2020,T7W,Water column,T7,Exposure only,Low,,0.418,0.004,0.177,0.071,0.011
+7/12/2020,T8W,Water column,T8,Exposure only,Control,,0.19,0.007,0.021,0.029,0.006
+7/12/2020,T9W,Water column,T9,Exposure only,High,,0.109,0.001,-0.024,0.014,-0.021
+7/12/2020,T10W,Water column,T10,Exposure only,Control,,0.191,0.033,-0.024,0.014,-0.021
+7/12/2020,T11W,Water column,T11,Exposure only,Low,,0.122,0.025,0.01,0.013,0.015
+7/12/2020,T12W,Water column,T12,Exposure only,High,,0.217,0.039,-0.002,0.018,0.017
+17/12/2020,T1L,Tile,T1,Exposure only,High,7.141,7.36,0.219,1.896,0.256,-0.004
+17/12/2020,T1R,Tile,T1,Exposure only,High,-2.705,-2.475,0.23,0.968,0.017,-0.029
+17/12/2020,T2L,Tile,T2,Exposure only,Low,21.973,41.244,19.271,8.104,1.708,0.419
+17/12/2020,T2R,Tile,T2,Exposure only,Low,3.342,12.25,8.908,1.392,0.122,0.153
+17/12/2020,T3L,Tile,T3,Exposure only,Control,14.559,22.819,8.259,6.056,1.145,0.167
+17/12/2020,T3R,Tile,T3,Exposure only,Control,-3.12,4.027,7.147,2.466,0.379,0.005
+17/12/2020,T4L,Tile,T4,Exposure only,High,3.104,3.232,0.128,1.213,0.161,0.243
+17/12/2020,T4R,Tile,T4,Exposure only,High,8.651,9.285,0.635,2.561,0.455,0.118
+17/12/2020,T5L,Tile,T5,Exposure only,Low,35.115,48.004,12.889,20.09,2.137,0.823
+17/12/2020,T5R,Tile,T5,Exposure only,Low,23.348,51.853,28.504,15.897,1.867,0.542
+17/12/2020,T6L,Tile,T6,Exposure only,Control,6.581,10.11,3.529,3.189,0.742,0.276
+17/12/2020,T6R,Tile,T6,Exposure only,Control,6.986,8.84,1.854,1.782,0.389,0.031
+17/12/2020,T7L,Tile,T7,Exposure only,Low,28.669,40.415,11.746,7.018,0.941,0.411
+17/12/2020,T7R,Tile,T7,Exposure only,Low,-16.941,-6.383,10.558,7.012,1.097,0.501
+17/12/2020,T8L,Tile,T8,Exposure only,Control,-3.173,0.412,3.585,0.502,0.05,-0.005
+17/12/2020,T8R,Tile,T8,Exposure only,Control,-4.866,-0.652,4.214,1.038,0.182,-0.203
+17/12/2020,T9L,Tile,T9,Exposure only,High,12.409,24.858,12.45,8.255,1.105,0.637
+17/12/2020,T9R,Tile,T9,Exposure only,High,21.81,48.132,26.322,11.037,1.674,0.712
+17/12/2020,T10L,Tile,T10,Exposure only,Control,-31.948,-9.549,22.399,1.188,0.189,0.17
+17/12/2020,T10R,Tile,T10,Exposure only,Control,-26.826,-13.124,13.701,2.07,0.547,0.169
+17/12/2020,T11L,Tile,T11,Exposure only,Low,2.402,8.254,5.852,3.359,0.664,0.205
+17/12/2020,T11R,Tile,T11,Exposure only,Low,8.757,15.795,7.039,3.274,0.468,0.331
+17/12/2020,T12L,Tile,T12,Exposure only,High,8.275,8.294,0.019,1.849,0.566,0.26
+17/12/2020,T12R,Tile,T12,Exposure only,High,56.986,61.236,4.25,13.323,4.414,0.325
+17/12/2020,T1W,Water column,T1,Exposure only,High,,0.029,0.002,0.034,0.005,0
+17/12/2020,T2W,Water column,T2,Exposure only,Low,,-0.279,0.001,0.112,0,0
+17/12/2020,T3W,Water column,T3,Exposure only,Control,,-0.092,0.002,0.012,0,0
+17/12/2020,T4W,Water column,T4,Exposure only,High,,0.088,0.001,0.012,0,0
+17/12/2020,T5W,Water column,T5,Exposure only,Low,,0.104,0.021,0.046,0,0.01
+17/12/2020,T6W,Water column,T6,Exposure only,Control,,0.052,0.014,0.012,0,0
+17/12/2020,T7W,Water column,T7,Exposure only,Low,,-0.161,0.008,0.13,0.01,0.01
+17/12/2020,T8W,Water column,T8,Exposure only,Control,,-0.072,0.022,0.022,0.008,0.014
+17/12/2020,T9W,Water column,T9,Exposure only,High,,0.086,0.005,0,0,0
+17/12/2020,T10W,Water column,T10,Exposure only,Control,,0.119,0.027,0.012,0,0
+17/12/2020,T11W,Water column,T11,Exposure only,Low,,0.114,0.001,0.122,0.008,0.014
+17/12/2020,T12W,Water column,T12,Exposure only,High,,0.076,0.009,0,0,0

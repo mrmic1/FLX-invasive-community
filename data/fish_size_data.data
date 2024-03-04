@@ -1,0 +1,8 @@
+---
+category: data
+filename: fish_size_data.csv
+weight: 1
+title: Fish biometrics
+description: Fish length and weight data before introduction into mesocosms, and after removal from mesocosms
+type: text/csv
+---

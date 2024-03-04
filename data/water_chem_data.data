@@ -1,0 +1,8 @@
+---
+category: data
+filename: water_chem_data.csv
+weight: 6
+title: Water fluoxetine concentrations
+description: Measured fluoxetine concentrations in water samples
+type: text/csv
+---

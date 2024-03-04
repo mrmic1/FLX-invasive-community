@@ -1,0 +1,8 @@
+---
+category: data
+filename: water_parameter_data.csv
+weight: 7
+title: Water parameter metrics
+description: Temperature, DO, pH data
+type: text/csv
+---

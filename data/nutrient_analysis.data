@@ -1,0 +1,8 @@
+---
+category: data
+filename: nutrient_analysis.csv
+weight: 4
+title: Nutrients
+description: Measured FRP, NOx and Ammonia concentrations
+type: text/csv
+---

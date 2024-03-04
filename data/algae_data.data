@@ -1,0 +1,8 @@
+---
+category: data
+filename: algae_data.csv
+weight: 2
+title: Biofilm and seston dataset
+description: Chlorophyll CR GPP data from biofilm and seston samples
+type: text/csv
+---

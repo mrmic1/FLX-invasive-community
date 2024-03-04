@@ -1,0 +1,8 @@
+---
+category: data
+filename: insect_chem_analysis.csv
+weight: 3
+title: Macroinvertebrate fluoxetine concentrations
+description: Measured fluoxetine concentrations (ng/g) in macroinvertebrate tissues
+type: text/csv
+---

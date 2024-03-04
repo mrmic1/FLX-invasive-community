@@ -1,0 +1,8 @@
+---
+category: data
+filename: plankton_data.csv
+weight: 5
+title: Zooplankton
+description: Identification and counts of zooplankton 
+type: text/csv
+---
