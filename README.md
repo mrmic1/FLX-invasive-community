@@ -2,7 +2,7 @@ This repository contains the R scripts and data used in the following study
 
 ---
 
-Marcus Michelangeli, Jake M. Martin, Stephanie Robson, Daniel Cerveny, Robert Walsh, Erinn K. Richmond, Michael R. Grace, Jack A. Brand, Michael G. Bertram, Susie Ho, Tomas Brodin, Bob B.M. Wong. 2024. *Pharmaceutical pollution disrupts freshwater communities and impairs their recovery from an invasive fish*
+Marcus Michelangeli, Jake M. Martin, Stephanie Robson, Daniel Cerveny, Robert Walsh, Erinn K. Richmond, Michael R. Grace, Jack A. Brand, Michael G. Bertram, Susie Ho, Tomas Brodin, Bob B.M. Wong. 2024. *Pharmaceutical pollution alters freshwater communities and hinders their recovery from a fish predator*
 
 ---
 
